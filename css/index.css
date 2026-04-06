@@ -2,9 +2,18 @@
 display: flex;
 display: grid;
 grid-template-columns: repeat(3,1fr);
-gap: 100px ;
+gap: 30px ;
 flex-direction: row;
 list-style-type: none;
+width: 57vw;
+height: 100vh;
+padding: 10px;
+border: 5px solid yellow;
+
+
+}
+.conteiner_mangas li{
+    border: solid 1px black;
 
 }
 
